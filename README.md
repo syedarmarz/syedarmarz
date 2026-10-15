@@ -5,4 +5,4 @@ www.syedarmarz.bond
 
 
 📂 My Projects
-- QRbot - https://www.qrbot.bond
+- QRbot - www.qrbot.bond
