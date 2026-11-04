@@ -4,3 +4,7 @@
 
 - PixelEraser - www.pixeleraser.bond
 (Free image background remover)
+
+- TinyPic - www.tinypic.bond
+(Free image Resize, Crop, Compress & Converter tool)
+  
